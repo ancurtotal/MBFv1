@@ -17,9 +17,10 @@ https://github.com/ancurtotal/MBFv1
 ```MENJALANKANNYA```
 
 $ cd mbf
-$ chmod +x MBF.py
+$ chmod +x MBFv1.py
 $ python2 MBF.py
 
 
 EKAY ANCURTOTAL
 SCARY OF DEMON CYBER
+
