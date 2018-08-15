@@ -16,8 +16,8 @@ https://github.com/ancurtotal/MBFv1
 
 ```MENJALANKANNYA```
 
-$ cd mbf
-$ chmod +x MBFv1.py
+$ cd MBFv1
+$ chmod +x MBF.py
 $ python2 MBF.py
 
 
